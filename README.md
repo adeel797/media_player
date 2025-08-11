@@ -77,17 +77,12 @@ This app is built using Flutter with the **Stacked Architecture** for clean code
 
 ## 📸 App Images
 
-*(Replace placeholders with actual screenshots from your app)*
+| Light Mode | Dark Mode |
+| ---------- | --------- |
+| <img src="https://github.com/user-attachments/assets/81ab83df-5743-485e-9827-c3eee1dfd548" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/d424ec8a-338e-46d6-a5de-b732c65b3e90" width="150" height="300" /> |
+| <img src="https://github.com/user-attachments/assets/e5d1fd6e-a359-484f-8b39-9f071a04d78a" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/2df014e3-9d96-4cbe-a96d-8a1bbb56a48f" width="150" height="300" /> |
+| <img src="https://github.com/user-attachments/assets/08189a60-c0ab-4ea7-aa55-034b325fbdba" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="150" height="300" /> |
 
-### Home Screen with Bottom Navigation
-
-| Light Mode                                   | Dark Mode                                  |
-| -------------------------------------------- | ------------------------------------------ |
-| ![Light Mode Home](your-light-mode-home.png) | ![Dark Mode Home](your-dark-mode-home.png) |
-| -------------------------------------------- | ------------------------------------------ |
-| ![Light Mode Home](your-light-mode-home.png) | ![Dark Mode Home](your-dark-mode-home.png) |
-| -------------------------------------------- | ------------------------------------------ |
-| ![Light Mode Home](your-light-mode-home.png) | ![Dark Mode Home](your-dark-mode-home.png) |
 
 ## 📲 Download the App
 
